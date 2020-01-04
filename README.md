@@ -16,4 +16,4 @@ Uygulama kitap dükkanı için basit bir muhasebe uygulamasıdır. Yer alan fonk
 src > muhasebeprojesi > HomeScreen run edilerek uygulama çalıştırılabilir.
 Login.java dosyası şifre ile giriş yapmak için tasarlanmıştır. Geliştirilecektir.
 
-Veritabanı olarak mysql kullanılmıştır. localhost:3306 portunda bulunan "deneme1" adlı veritabanına "root" ile bağlanılmıştır. Şifresi yoktur..
+Veritabanı olarak mysql kullanılmıştır. localhost:3306 portunda bulunan "deneme1" adlı veritabanına "root" ile bağlanılmıştır. Şifresi yoktur.
