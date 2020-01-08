@@ -1,7 +1,7 @@
 package muhasebeprojesi;
 
 //import com.mysql.jdbc.ResultSet;
-import javax.swing.border.EmptyBorder;
+import javax.swing.border.EmptyBorder; //
 import java.awt.Color;
 import javax.swing.*;
 import java.awt.event.*;
